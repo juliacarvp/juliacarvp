@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julia</h1>
 
 ```javascript
-const anmol = {
+const juliacarvp = {
     pronouns: "She" | "Her",
     code: ["Javascript", "HTML", "CSS"],
     interests: ['music', 'learn languages', 'watch TV', 'researches'],
