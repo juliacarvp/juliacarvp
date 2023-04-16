@@ -3,13 +3,17 @@
 ```javascript
 const juliacarvp = {
     pronouns: "She" | "Her",
-    code: ["Javascript", "HTML", "CSS"],
+    code: ["Javascript", "HTML", "CSS", "C#"],
     interests: ['music', 'learn languages', 'watch TV', 'researches'],
     technologies: {
         frontEnd: {
             js: ['JavaScript'],
             HTML: ['HTML5'],
             CSS: ['CSS3'],
+        },
+        
+        backEnd: {
+            c#: ['C#'],
         },
     sayHi: "Thanks for dropping by, hope you find some of my work interesting."
 };
@@ -18,7 +22,8 @@ const juliacarvp = {
 - Looking to become a FullStack Developer
 
 ## 📚 Learning
-- JavaScript
+- C#
+- .Net
   <img align="right" alt="Coder" height="150" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
   
 ##
