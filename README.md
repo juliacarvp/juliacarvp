@@ -15,6 +15,10 @@ const juliacarvp = {
         backEnd: {
             c#: ['C#'],
         },
+
+        bancoDeDados: {
+            SQL: ['Linguagem de consulta estruturada'],
+        },
     sayHi: "Thanks for dropping by, hope you find some of my work interesting."
 };
 ```
@@ -24,6 +28,7 @@ const juliacarvp = {
 ## 📚 Learning
 - C#
 - .Net
+- SQL
   <img align="right" alt="Coder" height="150" src="https://media.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif">
   
 ##
